@@ -1,0 +1,31 @@
+.header {
+    background-color: rgba(255,255,00,0.5);
+    font-family: 'Verdana', sans-serif;
+}
+
+.header.main {
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 20px;
+}
+
+.header.recipe {
+    font-size: 45px;
+}
+
+.list.recipes {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(195, 226, 236);
+    background-color: rgb(195, 226, 236);
+}
+
+h3 {
+    background-color: lightblue;
+    font-size: 30px;
+}
